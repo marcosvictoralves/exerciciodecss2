@@ -1,0 +1,17 @@
+.comeco{
+    width:1366px;
+    height: 56px;
+    justify-content: space-between;
+    display: block;
+    position:absolute;
+}
+.video{
+    align-content: center;
+    display: block;
+}
+.lado{
+    display: block;
+    position:relative;
+    bottom:690px;
+    left:975px;
+}
